@@ -74,3 +74,31 @@ body {
   bottom: 0;
   height: 5%;
 }
+
+.box-main {
+  background-color: rgb(203, 93, 93);
+
+  position: absolute;
+  width: 3%;
+  height: 5%;
+}
+
+#b1 {
+  top: 20%;
+  left: 10%;
+}
+
+#b2 {
+  top: 40%;
+  left: 15%;
+}
+
+#b3 {
+  top: 25%;
+  left: 90%;
+}
+
+#b4 {
+  top: 65%;
+  left: 85%;
+}
